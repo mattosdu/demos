@@ -1,0 +1,286 @@
+{
+    "default_language": "en",
+    "languages": ["br", "en"],
+    "translations": {
+      "title": {
+        "br": "REIBIT – O futuro da tecnologia de negócios",
+        "en": "REIBIT – The future of business technology"
+      },
+      "description": {
+        "br": "I like cats",
+        "en": "Me gustan los gatos"
+      },
+      "text-translate": {
+        "br": "PT",
+        "en": "EN"
+      },
+      "link-translate": {
+        "br": "tinyi18n.setLang('en'); return false;",
+        "en": "tinyi18n.setLang('br'); return false;"
+      },
+      "Sobre": {
+        "br": "Sobre",
+        "en": "About"
+      },
+      "Comprar": {
+        "br": "Comprar",
+        "en": "Buy"
+      },
+      "Distribuicao": {
+        "br": "Distribuição",
+        "en": "Distribution"
+      },
+      "Roadmap": {
+        "br": "Roadmap",
+        "en": "Roadmap"
+      },
+      "Parceiros": {
+        "br": "Parceiros",
+        "en": "Partners"
+      },
+      "Downloads": {
+        "br": "Downloads",
+        "en": "Downloads"
+      },
+      "canaldescricao": {
+        "br": "Tudo sobre o mundo das criptomoedas, bitcoin e altcoins",
+        "en": "All about the world of cryptocurrencies, bitcoin and altcoin"
+      },
+      "explorerdescricao": {
+        "br": "Transações e informações tecnicas sobre a reibit",
+        "en": "Transactions and technical information about reibit"
+      },
+      "eofuturo": {
+        "br": "é o futuro da tecnologia de negócios",
+        "en": "is the future of business technology"
+      },
+      "textobanner": {
+        "br": "Conheça o mundo das criptomoedas com a reibit: um ecossistema completo para seu aprendizado e desenvolvimento.",
+        "en": "nobo"
+      },
+      "ComprarRIT": {
+        "br": "Comprar RIT",
+        "en": "nobo"
+      },
+      "oqueereibit": {
+        "br": "O que é REIBIT",
+        "en": "nobo"
+      },
+      "oqueereibit2": {
+        "br": "Uma criptomoeda com projeto transparente que possui diversos benefícios",
+        "en": "nobo"
+      },
+      "oqueereibit3": {
+        "br": "Um projeto transparente, que vai contar com um roadmap robusto, uma equipe capacitada, e serviços inovadores, capaz de dar uma injeção de ânimo em qualquer investidor visionário.",
+        "en": "nobo"
+      },
+      "missao": {
+        "br": "Nossa Missão",
+        "en": "nobo"
+      },
+      "missao2": {
+        "br": "Iremos criar um ecossistema voltado para o mundo das criptomoedas completo e robusto, trazendo facilidade e simplicidade para as pessoas que não possuem experiência no mercado, desenvolvendo uma gama de ferramentas e plataformas.",
+        "en": "nobo"
+      },
+      "visao": {
+        "br": "Nossa Visão",
+        "en": "nobo"
+      },
+      "visao2": {
+        "br": "As criptomoedas foram criadas com o intuito de ser um ativo digital capaz de atuar como meio de troca. Nós acreditamos nas tecnologias desenvolvidas a partir delas e assim a moeda REIBIT irá contar com serviços cujo propósito é contribuir com a propagação e o avanço das criptomoedas de forma global.",
+        "en": "nobo"
+      },
+      "futuro": {
+        "br": "O Futuro",
+        "en": "nobo"
+      },
+      "futuro2": {
+        "br": "Sempre estivemos em busca da inovação e da disseminação das criptomoedas e seus conhecimentos. A REIBIT garantirá a todos benefícios que envolvem lucro real e conhecimento por meio dos projetos desenvolvidos.",
+        "en": "nobo"
+      },
+      "tistantaneas": {
+        "br": "Transações Instantâneas",
+        "en": "nobo"
+      },
+      "tistantaneas2": {
+        "br": "A REIBIT é transacionada instatâneamente podendo assim ser utilizada quase no mesmo momento pelo receptor",
+        "en": "nobo"
+      },
+      "certtec": {
+        "br": "Certificado de Tecnologia",
+        "en": "nobo"
+      },
+      "certtec2": {
+        "br": "A REIBIT irá proporcionar taxa zero e privacidade total para seus usuários",
+        "en": "nobo"
+      },
+      "mnpos": {
+        "br": "Masternodes e POS",
+        "en": "nobo"
+      },
+      "mnpos2": {
+        "br": "Utilizando a tecnologia de masternode e também pos todos os holders de RIT ganharão incentivos por contribuir com a rede",
+        "en": "nobo"
+      },
+      "beneficios": {
+        "br": "BENEFÍCIOS",
+        "en": "nobo"
+      },
+      "beneficios2": {
+        "br": "Conheça os benefícios em comprar RIT",
+        "en": "nobo"
+      },
+      "facilidades": {
+        "br": "FACILIDADE",
+        "en": "nobo"
+      },
+      "facilidades2": {
+        "br": "Nossas plataformas serão intuitivas e muito fáceis de utilizar.",
+        "en": "nobo"
+      },
+      "premios": {
+        "br": "PRÊMIOS",
+        "en": "nobo"
+      },
+      "premios2": {
+        "br": "Receba prêmios e promoções especiais em nossas plataformas por ter RIT.",
+        "en": "nobo"
+      },
+      "suporte": {
+        "br": "SUPORTE",
+        "en": "nobo"
+      },
+      "suporte2": {
+        "br": "Uma equipe pronta em tirar suas dúvidas e te ajudar no que precisar.",
+        "en": "nobo"
+      },
+      "seguranca": {
+        "br": "TOTAL SEGURANÇA",
+        "en": "nobo"
+      },
+      "seguranca2": {
+        "br": "Nossas plataformas contarão com alta tecnologia de segurança e transparência.",
+        "en": "nobo"
+      },
+      "vendasrit": {
+        "br": "Vendas RIT",
+        "en": "nobo"
+      },
+      "etapasdevendas": {
+        "br": "Etapas de Venda",
+        "en": "nobo"
+      },
+      "step": {
+        "br": "Etapa",
+        "en": "Step"
+      },
+      "step1p": {
+        "br": "R$0,20",
+        "en": "0,036 $"
+      },
+      "step2p": {
+        "br": "R$0,24",
+        "en": "0,043 $"
+      },
+      "step3p": {
+        "br": "R$0,35",
+        "en": "0,063 $"
+      },
+      "step4p": {
+        "br": "R$0,67",
+        "en": "0,12 $"
+      },
+      "step5p": {
+        "br": "R$0,99",
+        "en": "0,18 $"
+      },
+      "aproveite": {
+        "br": "Aproveite a 4ª Etapa para comprar RITs por apenas",
+        "en": "nobo"
+      },
+      "aproveite2": {
+        "br": "R$0,67",
+        "en": "0,12 $"
+      },
+      "Airdrops": {
+        "br": "Airdrops/Premiações",
+        "en": "nobo"
+      },
+      "Mineração": {
+        "br": "Mineração",
+        "en": "nobo"
+      },
+      "Desenvolvimentos": {
+        "br": "Desenvolvimentos",
+        "en": "nobo"
+      },
+      "Vendas": {
+        "br": "Vendas",
+        "en": "nobo"
+      },
+      "Desenvolvedores": {
+        "br": "Desenvolvedores",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      },
+      "nobo": {
+        "br": "nobo",
+        "en": "nobo"
+      }
+    }
+  }
